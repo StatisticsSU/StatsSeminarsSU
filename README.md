@@ -8,5 +8,5 @@ Abstract: We introduce SMARTboost (boosting of symmetric smooth additive regress
 When? **Nov 9, 2022, at 1 pm**\
 Where? Campus Albano, **Lecture room 19**, house 2, level 2.
 
-[slides](/Slides/SlidesSMARTboost.pdf)
+[slides]([/Slides/SlidesSMARTboost.pdf](https://github.com/StatisticsSU/StatsSeminarsSU/raw/main/Slides/SlidesSMARTboost.pdf))
 ---
